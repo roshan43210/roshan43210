@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Roshan 👨‍💻<br>I’m a Computer Science and Information Technology (CSIT) graduate<br>with a strong interest in Quality Assurance (QA), <br>Automation Testing, and Python development.
+Hi, I'm Roshan 👨‍💻<br>I’m a Computer Science and Information Technology (CSIT) graduate<br>with a strong interest in Quality Assurance (QA), <br>Automation Testing, and JS.
 
 
 ## 🌐 Socials:
